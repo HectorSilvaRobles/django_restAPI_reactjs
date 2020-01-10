@@ -1,3 +1,4 @@
+// Reducer
 import {GET_LEADS, DELETE_LEAD, ADD_LEAD} from '../actions/types.js';
 
 const initialState = {
